@@ -3,4 +3,4 @@
 
  Repositório criado para fins de aprendizagem
  
-Essa linha eu adicionei diretamento no site!!
+Essa linha eu adicionei diretamente no site!!
